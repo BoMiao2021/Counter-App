@@ -9,3 +9,6 @@ demo screenshot:
 How to start:
 cd to counter-app
 run **npm start**
+
+Todo:
+Can try fetching some info from backend GET API. Ex: http://echo.jsontest.com/insert-key-here/insert-value-here/key/value
